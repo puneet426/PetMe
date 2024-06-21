@@ -129,6 +129,7 @@
   /*-----end of sos button----*/
 
   .contact-form-container {
+    background-color: #ffedd6;
     max-width: 700px;
     width: 100%;
     margin: auto;
@@ -138,7 +139,7 @@
 /* Add this CSS code to hide the About content initially */
 #about .fade-in {
   opacity: 0;
-  transform: translateY(50px);
+  transform: translateY(5px);
   transition: opacity 1s ease, transform 1s ease;
 }
 
